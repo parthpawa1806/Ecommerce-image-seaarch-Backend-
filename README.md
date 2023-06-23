@@ -10,7 +10,7 @@ Check out the demo of the app: [Demo Link](https://drive.google.com/file/d/14NEX
 
 ## Dataset
 
-check out the dataset used :[Dataset link]https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
+check out the dataset used : [Dataset link](https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images)
 
 
 ## Features
