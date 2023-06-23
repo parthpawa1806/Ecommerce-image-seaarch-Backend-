@@ -8,8 +8,9 @@ An E-commerce Image Search app built with Flutter and Django. The app allows use
 
 Check out the demo of the app: [Demo Link](https://drive.google.com/file/d/14NEXouCcqeNHqASsVvN0iv2XHEGzvi6o/view?usp=drivesdk)
 
-##Dataset
-[Dataset link]https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
+## Dataset
+
+check out the dataset used :[Dataset link]https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
 
 
 ## Features
