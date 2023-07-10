@@ -1,0 +1,1 @@
+web: guincon image_reccomender.wsgi --log-file
