@@ -4,14 +4,17 @@ with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
 setup(
-    name='image_reccomender',
+    name='your_project_name',
     version='1.0',
-    packages=['image_reccomender'],
+    packages=['your_project_name'],
     include_package_data=True,
     install_requires=requirements,
+    license_files=('LICENSE.txt',),
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
         # Add any other relevant classifiers
     ],
 )
+
+
