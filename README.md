@@ -7,13 +7,21 @@ An E-commerce Image Search app built with Flutter and Django. The app allows use
 
 1. Clone the repository:
    run : git clone https://github.com/your-username/django-project.git
-2. Create a virtual environment (optional but recommended)
-3. Install the project dependencies using `pip` and the `requirements.txt` file:
+   
+3. Create a virtual environment (optional but recommended)
+   
+5. Install the project dependencies using `pip` and the `requirements.txt` file:
+   
     run the command:pip install -r requirements.txt
-4. Apply migrations to set up the database:
+   
+7. Apply migrations to set up the database:
+   
     run the command: python manage.py migrate
+   
 5.To start the development server, run the following command:
+
     run the command:python manage.py runserver
+    
    youll get a localhost url with port number navigate to the api end point and send a post request with an image for examplelocalhost:8000/api/similar-images/
 
 ## Hosted api link
